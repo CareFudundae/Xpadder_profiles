@@ -1,0 +1,23 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2017.05.01
+
+[Profile Settings]
+
+[Set Settings]
+Set1StickDeadZones=77,64
+Set1StickDiagonalSizes=25,45
+
+[Assignments]
+Set1Button1Slots=Tab
+Set1Button2Slots=Escape
+Set1Button5Slots=Q
+Set1DPadUpSlots=Arrow Up
+Set1DPadRightSlots=Arrow Right
+Set1DPadDownSlots=Arrow Down
+Set1DPadLeftSlots=Arrow Left
+Set1Stick1UpSlots=W
+Set1Stick1RightSlots=D
+Set1Stick1DownSlots=S
+Set1Stick1LeftSlots=A
+Set1TriggerLeftSlots=Z
