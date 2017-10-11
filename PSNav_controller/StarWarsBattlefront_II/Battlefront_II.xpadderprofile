@@ -9,10 +9,10 @@ Set1StickDiagonalSizes=40,45
 Set1TriggerDeadZones=27,1
 
 [Assignments]
-Set1Button1Name=crouch (hold)
-Set1Button1Slots=Left Control
-Set1Button2Name=interact
-Set1Button2Slots=G
+Set1Button1Name=save clip
+Set1Button1Slots=Left Control,Left Shift,F2
+Set1Button2Name=crouch (toggle)
+Set1Button2Slots=X
 Set1Button5Name=left card/ability
 Set1Button5Slots=Q
 Set1Button9Slots=Alt
@@ -20,8 +20,8 @@ Set1DPadUpName=emote 1
 Set1DPadUpSlots=F2
 Set1DPadRightName=emote 2
 Set1DPadRightSlots=F3
-Set1DPadDownName=crouch (toggle)
-Set1DPadDownSlots=X
+Set1DPadDownName=interact
+Set1DPadDownSlots=G
 Set1DPadLeftName=scoreboard
 Set1DPadLeftSlots=Tab
 Set1Stick1UpSlots=W
