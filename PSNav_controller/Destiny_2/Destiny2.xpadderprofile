@@ -6,12 +6,17 @@ Version=2017.05.01
 
 [Set Settings]
 Set1StickDeadZones=77,64
-Set1StickDiagonalSizes=25,45
+Set1StickDiagonalSizes=30,45
 
 [Assignments]
+Set1Button1Name=ghost
 Set1Button1Slots=Tab
-Set1Button2Slots=Escape
-Set1Button5Slots=Q
+Set1Button2Name=air move
+Set1Button2Slots=X
+Set1Button5Name=class ability
+Set1Button5Slots=V
+Set1Button9Name=block
+Set1Button9Slots=C
 Set1DPadUpSlots=Arrow Up
 Set1DPadRightSlots=Arrow Right
 Set1DPadDownSlots=Arrow Down
@@ -20,4 +25,5 @@ Set1Stick1UpSlots=W
 Set1Stick1RightSlots=D
 Set1Stick1DownSlots=S
 Set1Stick1LeftSlots=A
+Set1TriggerLeftName=zoom
 Set1TriggerLeftSlots=Z
