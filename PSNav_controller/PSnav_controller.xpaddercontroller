@@ -16,7 +16,7 @@ Stick1RightLocation=157,66
 Stick1DownLocation=125,98
 Stick1LeftLocation=93,66
 TriggerLeftLocation=346,113
-TriggerRightLocation=478,4
+TriggerRightLocation=481,225
 
 [Access]
 DPadUpAccess=POV
@@ -25,7 +25,7 @@ DPadDownAccess=POV
 DPadLeftAccess=POV
 Stick1XAccess=Axis X
 Stick1YAccess=Axis Y
-TriggerLeftAccess=Axis Z Full
+TriggerLeftAccess=Axis RY - Full
 
 [Names]
 Button1Name=Button 1
@@ -43,7 +43,6 @@ StickRightName=Right
 StickDownName=Down
 StickLeftName=Left
 TriggerLeftName=Trigger Left
-TriggerRightName=Trigger Right
 
 [Image]
 ImageLine1=0,0,FF00F5,200

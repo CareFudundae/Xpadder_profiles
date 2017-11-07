@@ -5,8 +5,8 @@ Version=2017.05.01
 [Profile Settings]
 
 [Set Settings]
-Set1StickDeadZones=77,64
-Set1StickDiagonalSizes=30,45
+Set1StickDeadZones=1,64
+Set1StickDiagonalSizes=33,45
 
 [Assignments]
 Set1Button1Name=ghost
