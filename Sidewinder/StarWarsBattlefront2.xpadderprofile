@@ -23,3 +23,5 @@ Set1Stick1DownSlots=Mouse Move Down
 Set1Stick1DownMouseSpeed=32
 Set1Stick1LeftSlots=Mouse Move Left
 Set1Stick1LeftMouseSpeed=32
+Set1Stick2UpSlots=W
+Set1Stick2DownSlots=S

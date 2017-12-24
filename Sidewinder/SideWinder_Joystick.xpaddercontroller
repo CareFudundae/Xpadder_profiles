@@ -11,8 +11,19 @@ Button5Location=219,196
 Button6Location=190,171
 Button7Location=170,200
 Button8Location=195,224
+Stick1UpLocation=312,126
+Stick1RightLocation=344,158
+Stick1DownLocation=312,190
+Stick1LeftLocation=280,158
+Stick2UpLocation=446,158
+Stick2RightLocation=478,190
+Stick2DownLocation=446,222
+Stick2LeftLocation=414,190
 
 [Access]
+Stick1XAccess=Axis X
+Stick1YAccess=Axis Y
+Stick2YAccess=Slider 1
 
 [Names]
 Button1Name=Button 1
@@ -23,6 +34,12 @@ Button5Name=Button 5
 Button6Name=Button 6
 Button7Name=Button 7
 Button8Name=Button 8
+Stick1Name=Stick 1
+Stick2Name=Stick 2
+StickUpName=Up
+StickRightName=Right
+StickDownName=Down
+StickLeftName=Left
 
 [Image]
 ImageLine1=0,0,FF00FF,13E,C1C1C1,999999,949494,919191,919191,909090,8E8E8E,8E8E8E,909090,0,908C91,5,918D92,918D92,918D92,8D8A8C,918E90,959294,959294,949193,949193,908D8F,8C898B,959091,959091,969192,989394,979293,928D8E,8A8586,847F80,757170,6D6968,6D6968,666261,676362,676362,6A6665,393534,1A1615,4D4948,74706F,7A7675,797574,7A7675,7E7A79,858180,7E7F7D,858684,8B8C8A,898A88,848583,8E8F8D,ADAEAC,CBCCCA,0,FF00FF,89
