@@ -1,6 +1,8 @@
 # Xpadder_profiles
 profiles for PC games
 
+UPDATED: the files that have fireshock in the name use the fireshock drivers found here: https://github.com/ViGEm/FireShock/releases
+
 ## Playstation Move Navigation Controller Xpadder Profile
 Go here to view setup video: https://www.youtube.com/watch?v=7XB8Hsy5whA
 
