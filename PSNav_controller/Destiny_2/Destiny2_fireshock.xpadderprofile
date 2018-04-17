@@ -1,0 +1,28 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2017.05.01
+
+[Profile Settings]
+
+[Set Settings]
+
+[Assignments]
+Set1Button2Name=air move
+Set1Button2Slots=X
+Set1Button3Name=ghost
+Set1Button3Slots=Tab
+Set1Button6Name=block
+Set1Button6Slots=C
+Set1Button9Name=zoom
+Set1Button9Slots=Z
+Set1Button11Name=class ability
+Set1Button11Slots=V
+Set1DPadUpSlots=Arrow Up
+Set1DPadRightSlots=Arrow Right
+Set1DPadDownName=save clip
+Set1DPadDownSlots=Left Control,Left Shift,F2
+Set1DPadLeftSlots=Arrow Left
+Set1Stick1UpSlots=W
+Set1Stick1RightSlots=D
+Set1Stick1DownSlots=S
+Set1Stick1LeftSlots=A
