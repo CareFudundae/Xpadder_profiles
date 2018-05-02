@@ -1,0 +1,23 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2017.05.01
+
+[Profile Settings]
+
+[Set Settings]
+
+[Assignments]
+Set1Button5Name=throwable
+Set1Button5Slots=3
+Set1Button7Slots=Tab
+Set1DPadUpName=0 toggle hud
+Set1DPadUpSlots=0
+Set1DPadDownSlots=Left Control,Left Shift,F2
+Set1DPadLeftName=inspect weapon
+Set1DPadLeftSlots=B
+Set1Stick1UpSlots=W
+Set1Stick1RightSlots=D
+Set1Stick1DownSlots=S
+Set1Stick1LeftSlots=A
+Set1TriggerLeftName=aim down sight
+Set1TriggerLeftSlots=U
