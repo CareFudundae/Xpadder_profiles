@@ -5,6 +5,7 @@ Version=2017.05.01
 [Profile Settings]
 
 [Set Settings]
+Set1StickDeadZones=85,64
 
 [Assignments]
 Set1Button5Name=throwable
@@ -12,7 +13,7 @@ Set1Button5Slots=3
 Set1Button7Slots=Tab
 Set1DPadUpName=0 toggle hud
 Set1DPadUpSlots=0
-Set1DPadDownSlots=Left Control,Left Shift,F2
+Set1DPadDownSlots=Right Shift,F8
 Set1DPadLeftName=inspect weapon
 Set1DPadLeftSlots=B
 Set1Stick1UpSlots=W
