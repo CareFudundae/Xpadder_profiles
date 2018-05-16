@@ -1,0 +1,29 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2017.05.01
+
+[Profile Settings]
+
+[Set Settings]
+
+[Assignments]
+Set1Button2Name=crouch
+Set1Button2Slots=X
+Set1Button3Name=score
+Set1Button3Slots=Tab
+Set1Button6Name=roll
+Set1Button6Slots=Alt
+Set1Button9Slots=Z
+Set1Button11Slots=Q
+Set1DPadUpName=emote1
+Set1DPadUpSlots=F2
+Set1DPadRightName=emote2
+Set1DPadRightSlots=F3
+Set1DPadDownName=save clip
+Set1DPadDownSlots=Left Control,Left Shift,F2
+Set1DPadLeftName=look L/R
+Set1DPadLeftSlots=C
+Set1Stick1UpSlots=W
+Set1Stick1RightSlots=D
+Set1Stick1DownSlots=S
+Set1Stick1LeftSlots=A
