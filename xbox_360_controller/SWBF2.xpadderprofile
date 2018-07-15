@@ -9,3 +9,4 @@ Version=2017.05.01
 [Assignments]
 Set1Button9Name=roll
 Set1Button9Slots=Alt
+Set1DPadDownSlots=Left Shift,F8
